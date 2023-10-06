@@ -7,12 +7,13 @@ We will be predicting the quality of wine on the basis of some given features.
 We will use the wine quality dataset available on the Internet for free. This dataset has the fundamental features which are responsible for affecting the quality of the wine.
 
 ## Importing libraries and Dataset:
-
+```
 Pandas - is a useful library in data handling.
 Numpy - The library is used for working with arrays.
 Seaborn/Matplotlib is used for data visualisation purposes.
 Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.
 XGBoost – This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms that helps us to achieve high accuracy on predictions
+```
 
 ## The quality of a wine is determined by :
 
@@ -85,6 +86,6 @@ To determine which features are the most indicative of a good quality wine
     - Print a classification report for the XGBoost model, including metrics like precision, recall, and F1-score.
 
 CHEERS!
-![peakpx](https://github.com/Deba951/wineQualityAnalysis/assets/83878346/c6d8f279-1bb2-42eb-9e4e-8c046614589f)
+![kelsey-knight-udj2tD3WKsY-unsplash](https://github.com/Deba951/wineQualityAnalysis/assets/83878346/beadaafd-04a2-4776-b132-bd8da417984e)
 
 Feel free to drop a star if you like it.
